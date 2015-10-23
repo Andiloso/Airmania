@@ -2,5 +2,5 @@
 Airmania Project
 
 Colaboradores:
-Andrés Sánchez Martínez
+Andrés Sánchez Martínez y 
 Samuel Martínez Javaloyes
